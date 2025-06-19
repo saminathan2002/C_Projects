@@ -1,10 +1,10 @@
-# C Projects Collection
+# C Projects
 
-Welcome to my C programming portfolio! This repository contains a collection of beginner-to-intermediate level C projects I’ve developed to explore fundamental concepts in systems programming, data handling, and bit-level manipulation.
+Welcome to my C programming portfolio! 
 
 ## 🧠 About the C Language
 
-The C programming language is a powerful, low-level language that provides direct access to memory, simple syntax, and unmatched performance. It’s widely used in embedded systems, operating systems, and system-level programming due to its efficiency and control over hardware.
+The C programming language is a powerful, low-level language that provides direct access to memory. It’s widely used in embedded systems, operating systems, and system-level programming due to its efficiency and control over hardware.
 
 Key strengths of C:
 - Precise control of memory with pointers
