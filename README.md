@@ -14,19 +14,19 @@ Key strengths of C:
 
 ## 📁 Projects Included
 
-### 1. **My LSB Image Steganography**
+### 1. **LSB Image Steganography**
 Embed secret messages inside BMP images using the Least Significant Bit (LSB) technique. This project demonstrates:
 - Bitwise operations
 - File handling
 - Image data manipulation
 
-### 2. **My MP3 Tag Reader**
+### 2. **MP3 Tag Reader**
 A command-line tool to extract metadata from MP3 files. It covers:
 - Reading file headers
 - Understanding binary file structures
 - Interpreting ID3 tag data
 
-### 3. **My Address Book Project**
+### 3. **Address Book Project**
 A basic address book system that allows:
 - Adding, searching, and deleting contacts
 - File-based persistent storage
